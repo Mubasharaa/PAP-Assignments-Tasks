@@ -1,0 +1,5 @@
+Assignment upto 24 December 2022                                                                                                                                                                                                           
+ Component based development
+- Code readability
+- LocalStorage - store todo in local storage
+- LocalStorage - lists merge/push in one todo
